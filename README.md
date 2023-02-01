@@ -17,8 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/howarddo2208/product-preview-card)
-- Live Site URL: [Add live site URL here](https://howarddo2208.github.io/product-preview-card/)
+[Live site](https://howarddo2208.github.io/product-preview-card/)
 
 ### Built with
 
