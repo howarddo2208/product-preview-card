@@ -116,7 +116,6 @@ p {
 .product--category {
   color: hsl(var(--dark-grayish-blue));
   font-weight: 500;
-  font-size: var(--step-);
   letter-spacing: var(--space-3xs);
   text-transform: uppercase;
 }
