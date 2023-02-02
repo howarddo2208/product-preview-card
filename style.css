@@ -161,7 +161,20 @@ p {
   font-size: var(--step-4);
 }
 
+.sr-only:not(:focus):not(:active) {
+  clip: rect(0 0 0 0); 
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap; 
+  width: 1px;
+}
+
 .price--original {
+  color: hsl(var(--dark-grayish-blue));
+  font-size: var(--step-0);
+  line-height: 1.5;
   text-decoration: line-through;
 }
 
